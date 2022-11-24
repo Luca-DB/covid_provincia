@@ -20,7 +20,16 @@ It contains the following folders and files:
 
 The three codes were made according to their numerical order (1_dataset.R > 2_analysis.R > 3_plots.R). However, they are independent of the others and work in any order.
 
+### Authors:
+[Luca Dei Bardi][7]<sup>1,2</sup>, Anna Acampora<sup>2</sup>, Laura Cacciani<sup>2</sup>, [Mirko Di Martino][8]<sup>2</sup>, [Nera Agabiti][9]<sup>2</sup>, [Marina Davoli][10]<sup>2</sup>, [Giulia Cesaroni][11]<sup>2</sup>
 
+
+<sup>1</sup> Sapienza University of Rome, Department of Statistical Sciences, Rome, Italy.
+
+<sup>2</sup> Department of Epidemiology of the Regional Health Service, ASL Roma 1, Rome, Italy.
+
+### Correspondence
+luca.deibardi@uniroma1.it
 
 
 [1]: https://www.istat.it/it/archivio/6789
@@ -29,3 +38,8 @@ The three codes were made according to their numerical order (1_dataset.R > 2_an
 [4]: https://tg24.sky.it/archivio
 [5]: https://demo.istat.it/popres/download.php?anno=2020&lingua=eng
 [6]: https://github.com/pcm-dpc/COVID-19
+[7]: https://www.researchgate.net/profile/Luca-Dei-Bardi
+[8]: https://www.researchgate.net/profile/Mirko-Martino
+[9]: https://www.researchgate.net/profile/Nera-Agabiti
+[10]: https://www.researchgate.net/profile/Marina-Davoli
+[11]: https://www.researchgate.net/profile/Giulia-Cesaroni
