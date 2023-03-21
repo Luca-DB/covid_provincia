@@ -4,7 +4,7 @@
 # Email:  luca.deibardi@uniroma1.it
 # 
 # The following script is part of the data analysis made for the study
-# "SARS-CoV-2 spread and area deprivation in the Italian three-tier
+# "SARS-CoV-2 spread and area economic disadvantage in the italian three-tier
 # restrictions: a multilevel approach".
 # 
 # Co-authors: Anna Acampora (1), Laura Cacciani (1), Mirko Di Martino (1),
@@ -79,9 +79,9 @@ full <- full %>%
                                   (prev_tier == "White"|
                                      prev_tier == "Yellow") ~ "Lower",
                                 tier == "Red" ~ "Lower"),
-         ter = case_when(perc_low <  qq3[2] ~ "1 (least deprived)",
+         ter = case_when(perc_low <  qq3[2] ~ "1 (least disadvantaged)",
                          perc_low <  qq3[3] & perc_low >= qq3[2] ~ "2",
-                         perc_low >= qq3[3] ~ "3 (most deprived)"),
+                         perc_low >= qq3[3] ~ "3 (most disadvantaged)"),
          tier = fct_relevel(tier,
                             c("Yellow","Orange","Red")),
          prev_tier = fct_relevel(prev_tier,
