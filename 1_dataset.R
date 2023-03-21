@@ -4,7 +4,7 @@
 # Email:  luca.deibardi@uniroma1.it
 # 
 # The following script is part of the data analysis made for the study
-# "SARS-CoV-2 spread and area economic disadvantage in the italian three-tier
+# "SARS-CoV-2 spread and area economic disadvantage in the Italian three-tier
 # restrictions: a multilevel approach".
 # 
 # Co-authors: Anna Acampora (1), Laura Cacciani (1), Mirko Di Martino (1),
