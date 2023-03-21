@@ -1,5 +1,6 @@
 # covid_provincia
-### This repository hosts all datasets and codes to reproduce all analyses reported in the manuscript "SARS-CoV-2 spread and area economic disadvantage in the Italian three-tier restrictions: a multilevel approach".
+### This repository hosts all datasets and codes to reproduce all analyses reported in the [manuscript][12] "SARS-CoV-2 spread and area economic disadvantage in the Italian three-tier restrictions: a multilevel approach".
+
 It contains the following folders and files:
 1. **dati** (folder): it contains the datasets needed for the analyses:
    * **Codici-statistici-e-denominazioni-al-01_01_2020.xls**: data downloaded from the [Italian National Institute of Statistics][1] (ISTAT). The file contains the territorial codes, names, provinces (NUTS-3), regions (NUTS-2), and geographical repartition (NUTS-1) of all Italian municipalities as of 01/01/2020.
@@ -43,3 +44,4 @@ luca.deibardi@uniroma1.it
 [9]: https://www.researchgate.net/profile/Nera-Agabiti
 [10]: https://www.researchgate.net/profile/Marina-Davoli
 [11]: https://www.researchgate.net/profile/Giulia-Cesaroni
+[12]: https://link.springer.com/article/10.1186/s12889-023-15246-1
